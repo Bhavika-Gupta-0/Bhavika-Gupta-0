@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhavika-Gupta-0
+- 👋 Hi, I’m @Bhavika-Gupta
 - 👀 I’m interested in learning about Git and Github
 - 🌱 I’m currently Studing Machine Learning algorithms
 - 💞️ I’m looking to collaborate
