@@ -43,3 +43,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavika-gupta-0&show_icons=true&locale=en&layout=compact" alt="bhavika-gupta-0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavika-gupta-0&show_icons=true&locale=en" alt="bhavika-gupta-0" /></p>
+
+<h3 align="left">Enjoy a Game of Pacman!</h3>
+<iframe src="https://pacman.platzh1rsch.ch" width="600" height="400" frameborder="0"></iframe>
+
