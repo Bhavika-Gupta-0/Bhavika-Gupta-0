@@ -47,3 +47,4 @@
 <h3 align="left">Enjoy a Game of Pacman!</h3>
 <iframe src="https://pacman.platzh1rsch.ch" width="600" height="400" frameborder="0"></iframe>
 
+<img scr="http://raw.githubusercontent.com/maurodesouza/ouput/snake.svg" alt="snake animation" />
