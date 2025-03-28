@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [WFM Forecast Analysis](https://github.com/Bhavika-Gupta-0/WFM-Forecast-Analysis)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhavika-Gupta-0](https://github.com/Bhavika-Gupta-0)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Bhavika-Gupta-0?tab=repositories)
 
 - 📧 How to reach me **guptabhavika310@gmail.com**
 
