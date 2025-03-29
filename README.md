@@ -15,7 +15,7 @@
 
 - 📧 How to reach me **guptabhavika310@gmail.com**
 
-- 📝 Know about my experiences [file:///C:/Users/Bhavika/OneDrive/Documents/Professional_docs/Bhavika_Gupta_CV_DA.pdf](file:///C:/Users/Bhavika/OneDrive/Documents/Professional_docs/Bhavika_Gupta_CV_DA.pdf)
+- 📝 Know about my experiences [CV](file:///C:/Users/Bhavika/OneDrive/Documents/Professional_docs/Bhavika_Gupta_CV_DA.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
