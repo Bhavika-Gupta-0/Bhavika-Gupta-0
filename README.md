@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Snowflakes**
 
-- 👯 I’m looking to collaborate on [WFM Forecast Analysis](https://github.com/Bhavika-Gupta-0/WFM-Forecast-Analysis)
+- 👯 I’m looking to collaborate on [Early Warning System Of Attrition Using ML]()
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/Bhavika-Gupta-0?tab=repositories)
 
