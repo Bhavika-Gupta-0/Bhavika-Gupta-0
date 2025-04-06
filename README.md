@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavika-gupta-0&show_icons=true&locale=en" alt="bhavika-gupta-0" /></p>
 
-<h3 align="left">Enjoy a Game of Pacman!</h3>
+<h3 align="left">Game of Pacman!</h3>
 <iframe src="https://pacman.platzh1rsch.ch" width="600" height="400" frameborder="0"></iframe>
 
 ###
